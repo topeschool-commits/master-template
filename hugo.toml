@@ -14,11 +14,29 @@ title = 'Master Template - New Empire Site'
     googleAnalyticsId = ""
 
 [menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 10
-    [[menu.main]]
-        name = "Category 1"
-        url = "/categories/cat1/"
-        weight = 20
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Category 1"
+    url = "/categories/category-1/"
+    weight = 2
+  [[menu.main]]
+    name = "Category 2"
+    url = "/categories/category-2/"
+    weight = 3
+    
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Category 1"
+    url = "/categories/category-1/"
+    weight = 2
+  [[menu.main]]
+    name = "Category 2"
+    url = "/categories/category-2/"
+    weight = 3
