@@ -1,7 +1,6 @@
 baseURL = 'https://your-new-domain.com/'
 languageCode = 'en-us'
 title = 'Master Template - New Empire Site'
-theme = 'PaperMod'
 
 [params]
     env = 'production'
